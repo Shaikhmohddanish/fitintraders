@@ -774,6 +774,7 @@ export default function TermsConditionsPage() {
                 </div>
               </div>
             </CardContent>
+            </Card>
           </ScrollAnimation>
 
           {/* Privacy Policy Section */}
@@ -1012,5 +1013,5 @@ export default function TermsConditionsPage() {
         </div>
       </div>
     </div>
-  )\
+  )
 }
