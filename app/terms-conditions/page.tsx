@@ -408,8 +408,8 @@ export default function TermsConditionsPage() {
                 {/* Before You Start Trading Table */}
                 <div className="mb-8">
                   <h3 className="text-2xl font-bold mb-4 text-center">Before you start trading</h3>
-                  <div className="overflow-x-auto">
-                    <table className="w-full border-collapse border border-gray-300">
+                  <div className="overflow-x-auto w-full block">
+                    <table className="min-w-[600px] w-full border-collapse border border-gray-300 text-xs sm:text-sm md:text-base">
                       <thead>
                         <tr className="bg-blue-600 text-white">
                           <th className="border border-gray-300 p-4 text-center font-bold">DO</th>
@@ -485,8 +485,8 @@ export default function TermsConditionsPage() {
                 {/* General Practice While You Trade Table */}
                 <div className="mb-8">
                   <h3 className="text-2xl font-bold mb-4 text-center">GENERAL PRACTICE WHILE YOU TRADE</h3>
-                  <div className="overflow-x-auto">
-                    <table className="w-full border-collapse border border-gray-300">
+                  <div className="overflow-x-auto w-full block">
+                    <table className="min-w-[600px] w-full border-collapse border border-gray-300 text-xs sm:text-sm md:text-base">
                       <thead>
                         <tr className="bg-blue-600 text-white">
                           <th className="border border-gray-300 p-4 text-center font-bold">DO</th>
@@ -534,8 +534,8 @@ export default function TermsConditionsPage() {
                 {/* How Can You Stay Protected Table */}
                 <div className="mb-8">
                   <h3 className="text-2xl font-bold mb-4 text-center">HOW CAN YOU STAY PROTECTED AT ALL TIMES?</h3>
-                  <div className="overflow-x-auto">
-                    <table className="w-full border-collapse border border-gray-300">
+                  <div className="overflow-x-auto w-full block">
+                    <table className="min-w-[600px] w-full border-collapse border border-gray-300 text-xs sm:text-sm md:text-base">
                       <thead>
                         <tr className="bg-blue-600 text-white">
                           <th className="border border-gray-300 p-4 text-center font-bold">DO</th>
