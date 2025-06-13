@@ -175,10 +175,10 @@ export default function TalkToUsPage() {
                           <h3 className="font-semibold text-lg">Email</h3>
                           <p className="text-gray-600">Send us an email anytime</p>
                           <a
-                            href="mailto:compliance@fitintraders.com"
+                            href="mailto:info@fitintraders.com"
                             className="text-green-600 hover:underline font-semibold"
                           >
-                            compliance@fitintraders.com
+                            info@fitintraders.com
                           </a>
                         </div>
                       </div>
@@ -220,7 +220,7 @@ export default function TalkToUsPage() {
                       <Button
                         variant="outline"
                         className="w-full border-green-600 text-green-600 hover:bg-green-600 hover:text-white py-3 text-lg font-semibold rounded-xl"
-                        onClick={() => window.open("mailto:compliance@fitintraders.com")}
+                        onClick={() => window.open("mailto:info@fitintraders.com")}
                       >
                         <Mail className="h-5 w-5 mr-2" />
                         Send Email

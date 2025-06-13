@@ -294,8 +294,11 @@ export default function InvestorCharterPage() {
                           </div>
                         </div>
                         <p className="text-gray-700 leading-relaxed">
-                          <span className="font-semibold">Verify Registration:</span> Engage only with SEBI-registered
-                          Research Analysts.
+                          <span className="font-semibold">Verify Registration:</span> Engage only with{" "}
+                          <a href="/registered-research-analyst" className="text-green-700 underline">
+                            SEBI-registered Research Analysts
+                          </a>
+                          .
                         </p>
                       </div>
 
@@ -306,8 +309,11 @@ export default function InvestorCharterPage() {
                           </div>
                         </div>
                         <p className="text-gray-700 leading-relaxed">
-                          <span className="font-semibold">Check Credentials:</span> Confirm the Research Analyst holds a
-                          valid registration certificate.
+                          <span className="font-semibold">Check Credentials:</span> Confirm the{" "}
+                          <a href="/registered-research-analyst" className="text-green-700 underline">
+                            Research Analyst
+                          </a>{" "}
+                          holds a valid registration certificate.
                         </p>
                       </div>
 
@@ -355,7 +361,11 @@ export default function InvestorCharterPage() {
                         </div>
                         <p className="text-gray-700 leading-relaxed">
                           <span className="font-semibold">Validate Recommendations:</span> Verify research
-                          recommendations before investing in securities or public offers.
+                          recommendations before investing in securities or public offers. See our{" "}
+                          <a href="/registered-research-analyst" className="text-green-700 underline">
+                            Registered Research Analyst
+                          </a>{" "}
+                          page for more details.
                         </p>
                       </div>
 
@@ -593,10 +603,10 @@ export default function InvestorCharterPage() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="mailto:compliance@fitintraders.com"
+                    href="mailto:info@fitintraders.com"
                     className="bg-white text-green-600 hover:bg-gray-100 py-3 px-8 text-lg font-semibold rounded-xl transition-all duration-300 inline-block"
                   >
-                    Email: compliance@fitintraders.com
+                    Email: info@fitintraders.com
                   </a>
                   <a
                     href="tel:8108556625"

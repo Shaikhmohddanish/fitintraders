@@ -16,7 +16,7 @@ export default function UserConsentPage() {
             <Card className="mb-8">
               <CardContent className="p-8 space-y-6">
                 <p className="text-lg leading-relaxed">
-                  By accessing or using the <span className="font-semibold text-green-600">Capital-Grow</span> website,
+                  By accessing or using the <span className="font-semibold text-green-600">Fitin Traders</span> website,
                   mobile application, or subscribing to our research services, you agree to adhere to the terms and
                   conditions, legal disclaimer, disclosures, policies, and user consent outlined on the official
                   Fitin Traders platform. Please note, we may update these terms from time to time, and your continued
@@ -26,7 +26,7 @@ export default function UserConsentPage() {
                 </p>
 
                 <p className="text-lg leading-relaxed">
-                  The term <span className="font-semibold">Capital-Grow</span> refers to our website, mobile app, its
+                  The term <span className="font-semibold">Fitin Traders</span> refers to our website, mobile app, its
                   owners, and associates. "You" refers to the user, subscriber, or visitor of our website, app, or
                   research services.
                 </p>
@@ -43,7 +43,7 @@ export default function UserConsentPage() {
                     Subscription & Information Accuracy:
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
-                    By subscribing to Capital-Grow's services, you confirm that the information provided during the
+                    By subscribing to Fitin Traders's services, you confirm that the information provided during the
                     subscription process is accurate. In the event of any misleading or incorrect information, you
                     acknowledge that you may be held liable. You also agree to notify us of any changes to the details
                     provided.
@@ -129,7 +129,7 @@ export default function UserConsentPage() {
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
                     You confirm that you fully understand the risks associated with trading and investing in the stock
-                    market, and you do not expect guaranteed or fixed returns from Capital-Grow's research alerts. You
+                    market, and you do not expect guaranteed or fixed returns from Fitin Traders's research alerts. You
                     acknowledge that trading based on our research may result in partial or complete loss of your
                     invested capital.
                   </p>
@@ -145,7 +145,7 @@ export default function UserConsentPage() {
                     No Refund Policy:
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
-                    The fees paid for Capital-Grow's research services are non-refundable under any circumstances. You
+                    The fees paid for Fitin Traders's research services are non-refundable under any circumstances. You
                     accept that these fees are strictly for accessing research services and not for direct stock market
                     investment.
                   </p>
@@ -183,7 +183,7 @@ export default function UserConsentPage() {
                     By clicking "Yes, I Agree," you confirm that you have read, understood, and accepted all the terms
                     and conditions, disclaimers, disclosures, and policies mentioned on the Fitin Traders website and
                     mobile app. This consent will be recorded and considered final for all future services and
-                    transactions with Capital-Grow.
+                    transactions with Fitin Traders.
                   </p>
                 </CardContent>
               </Card>
@@ -193,8 +193,8 @@ export default function UserConsentPage() {
           <div className="mt-12 text-center">
             <p className="text-gray-500 text-sm">
               Last updated: January 2025 | For any questions regarding this consent, please contact us at{" "}
-              <a href="mailto:compliance@fitintraders.com" className="text-green-600 hover:underline">
-                compliance@fitintraders.com
+              <a href="mailto:info@fitintraders.com" className="text-green-600 hover:underline">
+                info@fitintraders.com
               </a>
             </p>
           </div>

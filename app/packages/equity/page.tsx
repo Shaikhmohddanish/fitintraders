@@ -252,10 +252,10 @@ export default function EquityPackagesPage() {
                     </a>{" "}
                     or email us at{" "}
                     <a
-                      href="mailto:compliance@fitintraders.com"
+                      href="mailto:info@fitintraders.com"
                       className="text-blue-600 hover:underline font-semibold"
                     >
-                      compliance@fitintraders.com
+                      info@fitintraders.com
                     </a>
                     .
                   </p>

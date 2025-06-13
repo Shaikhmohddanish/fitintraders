@@ -14,7 +14,7 @@ export default function RefundPolicyPage() {
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">Refund Policy</h1>
               <p className="text-lg text-gray-600 leading-relaxed">
-                At Capital-Grow, we prioritize delivering the best possible services to our clients, but it's important
+                At Fitin Traders, we prioritize delivering the best possible services to our clients, but it's important
                 to note that we do not offer any guaranteed returns on stock market research calls. As a result, no
                 refunds will be provided on any of our subscription packages, regardless of individual performance or
                 outcomes.
@@ -32,7 +32,7 @@ export default function RefundPolicyPage() {
                 </div>
                 <div className="space-y-4">
                   <p className="text-lg text-gray-700 leading-relaxed">
-                    Once you subscribe to any of Capital-Grow's research services and make the corresponding payment,
+                    Once you subscribe to any of Fitin Traders's research services and make the corresponding payment,
                     the service cannot be canceled or refunded under any circumstances. We strongly encourage our
                     clients to thoroughly evaluate our services before making any payment decisions.
                   </p>
@@ -121,7 +121,7 @@ export default function RefundPolicyPage() {
                 </div>
                 <div className="space-y-4">
                   <p className="text-lg text-gray-700 leading-relaxed">
-                    At Capital-Grow, we believe in full transparency. We consistently communicate the inherent risks
+                    At Fitin Traders, we believe in full transparency. We consistently communicate the inherent risks
                     involved in stock market trading and the possibility of capital loss. Therefore, clients should only
                     subscribe after fully understanding these risks.
                   </p>
