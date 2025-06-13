@@ -37,7 +37,12 @@ export default function Home() {
                   security measures.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3">
-                  <Button className="bg-green-600 hover:bg-green-700">JOIN US NOW</Button>
+                  <Button
+                    className="bg-green-600 hover:bg-green-700"
+                    onClick={() => window.location.href = '/talk-to-us'}
+                  >
+                    JOIN US NOW
+                  </Button>
                 </div>
               </div>
             </ScrollAnimation>
@@ -126,7 +131,12 @@ export default function Home() {
                   expert guidance tailored just for you.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3">
-                  <Button className="bg-green-600 hover:bg-green-700">JOIN US NOW</Button>
+                  <Button
+                    className="bg-green-600 hover:bg-green-700"
+                    onClick={() => window.location.href = '/talk-to-us'}
+                  >
+                    JOIN US NOW
+                  </Button>
                 </div>
               </div>
             </ScrollAnimation>
@@ -238,7 +248,12 @@ export default function Home() {
                   confidence. Don't miss this opportunity for expert guidance—schedule your consultation today!
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3">
-                  <Button className="bg-green-600 hover:bg-green-700">REQUEST A FREE CONSULTATION</Button>
+                  <Button
+                    className="bg-green-600 hover:bg-green-700"
+                    onClick={() => window.open('https://wa.me/7506233907?text=Hello%2C%20I%20would%20like%20to%20request%20a%20free%20consultation%20with%20Fitin%20Traders.')}
+                  >
+                    REQUEST A FREE CONSULTATION
+                  </Button>
                 </div>
               </div>
             </ScrollAnimation>

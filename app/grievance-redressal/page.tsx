@@ -155,8 +155,8 @@ export default function GrievanceRedressalPage() {
                         <div className="flex flex-col sm:flex-row gap-4">
                           <div className="flex items-center">
                             <Phone className="h-5 w-5 text-blue-600 mr-2" />
-                            <a href="tel:+918879392530" className="text-blue-600 hover:underline font-semibold">
-                              +91 8879392530
+                            <a href="tel:+917506233907" className="text-blue-600 hover:underline font-semibold">
+                              +91 7506233907
                             </a>
                           </div>
                           <div className="flex items-center">
@@ -335,8 +335,8 @@ export default function GrievanceRedressalPage() {
                       <Phone className="h-6 w-6 text-green-600 mr-3" />
                       <div>
                         <p className="font-semibold text-gray-800">Phone Support</p>
-                        <a href="tel:+918879392530" className="text-green-600 hover:underline font-semibold">
-                          +91 8879392530
+                        <a href="tel:+917506233907" className="text-green-600 hover:underline font-semibold">
+                          +91 7506233907
                         </a>
                       </div>
                     </div>
@@ -410,10 +410,10 @@ export default function GrievanceRedressalPage() {
                     Email Your Complaint
                   </a>
                   <a
-                    href="tel:+918879392530"
+                    href="tel:+917506233907"
                     className="border-2 border-white text-white hover:bg-white hover:text-green-600 py-3 px-8 text-lg font-semibold rounded-xl transition-all duration-300 inline-block"
                   >
-                    Call: +91 8879392530
+                    Call: +91 7506233907
                   </a>
                 </div>
               </CardContent>
