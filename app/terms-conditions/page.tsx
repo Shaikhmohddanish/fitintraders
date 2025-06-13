@@ -200,7 +200,7 @@ export default function TermsConditionsPage() {
                   discretion, to deny you access to this Website or any portion thereof without notice for the following
                   reasons: (a) any unauthorized access or use by you (b) if you assign or transfer any rights granted to
                   you (c) if you violate any of the other terms and conditions. Upon termination, all rights granted to
-                  you will terminate and revert to Fitin Traders Trading Research.
+                  you will terminate and revert to Fitin Traders.
                 </p>
               </CardContent>
             </Card>
@@ -634,7 +634,7 @@ export default function TermsConditionsPage() {
                     <h3 className="font-bold mb-2">1. Payment Guidelines:</h3>
                     <p>
                       Payment for all research services should be made in the current account of Fitin Traders only. No
-                      payment should be made in any account of an employee/associate of Fitin Traders Trading Research or
+                      payment should be made in any account of an employee/associate of Fitin Traders or
                       any other individual in any condition.
                     </p>
                   </div>
@@ -788,7 +788,7 @@ export default function TermsConditionsPage() {
                 <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
                   <p>
                     Your privacy is important to Fitin Traders. This privacy statement provides information about the
-                    personal information that Fitin Traders Trading Research collect and how Fitin Traders use that personal
+                    personal information that Fitin Traders collect and how Fitin Traders use that personal
                     information.
                   </p>
 
@@ -839,7 +839,7 @@ export default function TermsConditionsPage() {
                     <h3 className="text-xl font-bold mb-3">Cross-border data transfers</h3>
                     <p>
                       Information that Fitin Traders collect may be stored and processed and transferred between any of the
-                      countries in which Fitin Traders Trading Research operate to enable the use of the information by
+                      countries in which Fitin Traders operate to enable the use of the information by
                       this privacy policy.
                     </p>
                   </div>

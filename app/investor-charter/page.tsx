@@ -551,7 +551,7 @@ export default function InvestorCharterPage() {
                 </div>
                 <div className="bg-white p-6 rounded-lg border-l-4 border-blue-500">
                   <p className="text-lg text-gray-800 leading-relaxed mb-4">
-                    Fitin Traders Trading Research is a SEBI registered Research Analyst. Always verify the registration
+                    Fitin Traders is a SEBI registered Research Analyst. Always verify the registration
                     status of any Research Analyst before engaging their services.
                   </p>
                   <div className="flex items-center">

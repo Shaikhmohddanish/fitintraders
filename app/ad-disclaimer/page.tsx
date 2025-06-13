@@ -51,7 +51,7 @@ export default function ADDisclaimerPage() {
                   <p>
                     However, none of these communications should be considered as an offer to buy or sell securities or
                     as trading advice. All recommendations provided are purely for informational purposes and should not
-                    be used as the sole basis for trading actions. Fitin Traders Trading Research does not act as a
+                    be used as the sole basis for trading actions. Fitin Traders does not act as a
                     certified financial advisor, and the information provided on our website is intended solely for
                     informational use.
                   </p>
@@ -111,7 +111,7 @@ export default function ADDisclaimerPage() {
                 <div className="space-y-4 text-lg text-gray-700 leading-relaxed">
                   <p>
                     Users are advised to consult with certified financial experts before making any investment
-                    decisions. Fitin Traders Trading Research does not guarantee the accuracy or completeness of the
+                    decisions. Fitin Traders does not guarantee the accuracy or completeness of the
                     information provided and assumes no responsibility for any errors or omissions.
                   </p>
                   <p>
@@ -236,7 +236,7 @@ export default function ADDisclaimerPage() {
                   <h2 className="text-3xl font-bold text-blue-700">Company Information</h2>
                 </div>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  For detailed terms and conditions, please visit our website at Fitin Traders Trading Research.
+                  For detailed terms and conditions, please visit our website at Fitin Traders.
                 </p>
               </CardContent>
             </Card>

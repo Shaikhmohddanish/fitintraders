@@ -28,7 +28,7 @@ export default function GrievanceRedressalPage() {
             <div className="text-center mb-12">
               <h1 className="text-4xl md:text-5xl font-bold mb-6">Grievance Redressal Process</h1>
               <p className="text-lg text-gray-600 leading-relaxed max-w-4xl mx-auto">
-                At Fitin Traders Trading Research, we prioritize exceptional investor service and strive to maintain high
+                At Fitin Traders, we prioritize exceptional investor service and strive to maintain high
                 standards across all touchpoints. Effective and prompt service is crucial for maintaining investor
                 relationships and satisfaction, especially within our Direct-to-Investor model.
               </p>
