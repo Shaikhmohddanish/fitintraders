@@ -9,7 +9,6 @@ import { Shield, FileText, CheckCircle } from "lucide-react";
 export default function RegisteredResearchAnalyst() {
   return (
     <div className="flex flex-col min-h-screen">
-      <Header />
       <main className="flex-1 container mx-auto px-4 md:px-6 py-12">
         <div className="max-w-4xl mx-auto">
           <ScrollAnimation direction="right">
@@ -103,7 +102,6 @@ export default function RegisteredResearchAnalyst() {
           </ScrollAnimation>
         </div>
       </main>
-      <Footer />
     </div>
   );
 }
