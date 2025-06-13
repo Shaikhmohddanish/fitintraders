@@ -546,7 +546,7 @@ export default function TermsConditionsPage() {
                         <tr>
                           <td className="border border-gray-300 p-4 text-center">
                             Forward suspicious emails asking for sensitive information to{" "}
-                            <span className="text-blue-600">sales@fitintraders.com</span>
+                            <span className="text-blue-600">Support@fitintraders.com</span>
                           </td>
                           <td className="border border-gray-300 p-4 text-center">
                             Do not reveal your personal information Customer IDs, Passwords, and One Time Passwords (OTP)
@@ -555,7 +555,7 @@ export default function TermsConditionsPage() {
                         </tr>
                         <tr className="bg-gray-50">
                           <td className="border border-gray-300 p-4 text-center">
-                            Write to us at <span className="text-blue-600">sales@fitintraders.com</span>, if you notice a
+                            Write to us at <span className="text-blue-600">Support@fitintraders.com</span>, if you notice a
                             duplicate Fitin Traders or webpage
                           </td>
                           <td className="border border-gray-300 p-4 text-center">
@@ -995,10 +995,10 @@ export default function TermsConditionsPage() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="mailto:sales@fitintraders.com"
+                    href="mailto:Support@fitintraders.com"
                     className="bg-white text-green-600 hover:bg-gray-100 py-3 px-8 text-lg font-semibold rounded-xl transition-all duration-300 inline-block"
                   >
-                    Email: sales@fitintraders.com
+                    Email: Support@fitintraders.com
                   </a>
                   <a
                     href="tel:7506233907"

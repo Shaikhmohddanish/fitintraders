@@ -47,7 +47,7 @@ export default function RegisteredResearchAnalyst() {
                   </p>
                   <p>
                     <span className="font-semibold">Contact Email:</span>
-                    sales@fitintraders.com
+                    Support@fitintraders.com
                   </p>
                   <p>
                     <span className="font-semibold">Office Address:</span> Kopar

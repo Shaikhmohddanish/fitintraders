@@ -199,8 +199,8 @@ export default function Home() {
                 services. To safeguard your interactions with us, please note that all official offers, promotions, and
                 communications related to sales and discounts from <span className="font-semibold">Fitin Traders</span>{" "}
                 will be sent only through our verified email address:{" "}
-                <a href="mailto:sales@fitintraders.com" className="text-green-600 hover:underline">
-                  sales@fitintraders.com
+                <a href="mailto:Support@fitintraders.com" className="text-green-600 hover:underline">
+                  Support@fitintraders.com
                 </a>
                 .
               </p>
@@ -208,8 +208,8 @@ export default function Home() {
                 We've recently been alerted to the possibility of unauthorized entities imitating our communication
                 channels for fraudulent purposes. To protect yourself from phishing scams or other deceptive activities,
                 be vigilant and only engage with emails sent from the official email address:{" "}
-                <a href="mailto:sales@fitintraders.com" className="text-green-600 hover:underline">
-                  sales@fitintraders.com
+                <a href="mailto:Support@fitintraders.com" className="text-green-600 hover:underline">
+                  Support@fitintraders.com
                 </a>
                 .
               </p>
@@ -220,8 +220,8 @@ export default function Home() {
                   7506233907
                 </a>{" "}
                 or via email at{" "}
-                <a href="mailto:sales@fitintraders.com" className="text-green-600 hover:underline">
-                  sales@fitintraders.com
+                <a href="mailto:Support@fitintraders.com" className="text-green-600 hover:underline">
+                  Support@fitintraders.com
                 </a>
                 .
               </p>

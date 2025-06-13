@@ -193,8 +193,8 @@ export default function UserConsentPage() {
           <div className="mt-12 text-center">
             <p className="text-gray-500 text-sm">
               Last updated: January 2025 | For any questions regarding this consent, please contact us at{" "}
-              <a href="mailto:sales@fitintraders.com" className="text-green-600 hover:underline">
-                sales@fitintraders.com
+              <a href="mailto:Support@fitintraders.com" className="text-green-600 hover:underline">
+                Support@fitintraders.com
               </a>
             </p>
           </div>
