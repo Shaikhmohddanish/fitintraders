@@ -12,8 +12,12 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Fitin Traders - Expert Share Market Trading Insights",
   description: "Get expert share market trading insights with Fitin Traders",
-    generator: 'v0.dev'
+  generator: "Next.js",
+  icons: {
+    icon: "/favicon.svg", // SVG favicon
+  },
 }
+
 
 export default function RootLayout({
   children,
