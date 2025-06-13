@@ -167,8 +167,8 @@ export default function StandardDosDontsPage() {
                       <p className="text-gray-700 leading-relaxed">
                         Fitin Traders will never ask for your D-mat/Trading account login ID or password. If anyone
                         requests this information, immediately decline and report it to us at{" "}
-                        <a href="mailto:info@fitintraders.com" className="text-blue-600 hover:underline">
-                          info@fitintraders.com
+                        <a href="mailto:sales@fitintraders.com" className="text-blue-600 hover:underline">
+                          sales@fitintraders.com
                         </a>
                         .
                       </p>

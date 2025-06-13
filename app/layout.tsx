@@ -5,6 +5,7 @@ import "./globals.css"
 import Header from "@/components/header"
 import Footer from "@/components/footer"
 import ScrollToTop from "@/components/scroll-to-top"
+import { DisclaimerBanner } from "@/components/disclaimer-banner"
 
 const inter = Inter({ subsets: ["latin"] })
 
@@ -24,6 +25,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <ScrollToTop />
         <Header />
+        <DisclaimerBanner />
         <main>{children}</main>
         <Footer />
       </body>

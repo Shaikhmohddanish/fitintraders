@@ -175,10 +175,10 @@ export default function TalkToUsPage() {
                           <h3 className="font-semibold text-lg">Email</h3>
                           <p className="text-gray-600">Send us an email anytime</p>
                           <a
-                            href="mailto:info@fitintraders.com"
+                            href="mailto:sales@fitintraders.com"
                             className="text-green-600 hover:underline font-semibold"
                           >
-                            info@fitintraders.com
+                            sales@fitintraders.com
                           </a>
                         </div>
                       </div>
@@ -188,7 +188,7 @@ export default function TalkToUsPage() {
                         <div>
                           <h3 className="font-semibold text-lg">Office Address</h3>
                           <p className="text-gray-600">Visit our main office</p>
-                          <p className="font-semibold">Kopar Khairane, Navi Mumbai, 400709</p>
+                          <p className="font-semibold">TTC Industrial area pawne navi mumbai 400705</p>
                         </div>
                       </div>
 
@@ -197,7 +197,8 @@ export default function TalkToUsPage() {
                         <div>
                           <h3 className="font-semibold text-lg">Business Hours</h3>
                           <p className="text-gray-600">Monday - Friday: 09:00 AM - 06:00 PM</p>
-                          <p className="text-gray-600">Saturday & Sunday: Closed</p>
+                          <p className="text-gray-600">Saturday: 10:00 AM - 04:00 PM</p>
+                          <p className="text-gray-600">Sunday: Closed</p>
                         </div>
                       </div>
                     </div>
@@ -220,7 +221,7 @@ export default function TalkToUsPage() {
                       <Button
                         variant="outline"
                         className="w-full border-green-600 text-green-600 hover:bg-green-600 hover:text-white py-3 text-lg font-semibold rounded-xl"
-                        onClick={() => window.open("mailto:info@fitintraders.com")}
+                        onClick={() => window.open("mailto:sales@fitintraders.com")}
                       >
                         <Mail className="h-5 w-5 mr-2" />
                         Send Email
@@ -280,7 +281,7 @@ export default function TalkToUsPage() {
                   </Button>
                   <Button
                     variant="outline"
-                    className="border-white text-white hover:bg-white hover:text-green-600 py-3 px-8 text-lg font-semibold rounded-xl"
+                    className="border-white text-green-600 hover:bg-white hover:text-green-600 py-3 px-8 text-lg font-semibold rounded-xl"
                     onClick={() => (window.location.href = "/packages/options")}
                   >
                     View Options Packages

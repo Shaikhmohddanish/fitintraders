@@ -243,10 +243,10 @@ export default function PrivacyPolicyPage() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="mailto:info@fitintraders.com"
+                    href="mailto:sales@fitintraders.com"
                     className="bg-white text-green-600 hover:bg-gray-100 py-3 px-8 text-lg font-semibold rounded-xl transition-all duration-300 inline-block"
                   >
-                    Email: info@fitintraders.com
+                    Email: sales@fitintraders.com
                   </a>
                   <a
                     href="tel:7506233907"
