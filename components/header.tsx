@@ -45,7 +45,7 @@ export default function Header() {
             <DropdownMenuTrigger asChild>
               <Button
                 variant="ghost"
-                className="text-sm font-medium transition-colors hover:text-white/80 flex items-center gap-1 p-0"
+                className="text-sm font-medium transition-colors hover:text-black/80 flex items-center gap-1 p-0"
               >
                 Package <ChevronDown className="h-4 w-4" />
               </Button>
@@ -89,7 +89,7 @@ export default function Header() {
         </nav>
 
         <div className="hidden md:flex items-center space-x-4">
-          <Button variant="ghost" className="text-white hover:text-white/80">
+          <Button variant="ghost" className="text-white hover:text-black/80">
             7506233907
           </Button>
           <Button variant="outline" className="bg-white text-emerald-600 hover:bg-white/90">
