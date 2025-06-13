@@ -189,6 +189,12 @@ export default function EquityPackagesPage() {
                             ? "bg-gradient-to-r from-green-500 to-green-600 hover:from-green-600 hover:to-green-700 shadow-lg"
                             : "bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700"
                         } text-white hover:shadow-xl transform hover:scale-105`}
+                        onClick={() => {
+                          const message = encodeURIComponent(
+                            `Hello, I am interested in the ${pkg.title} - ${pkg.subtitle} package.\nCurrent Price: ${pkg.currentPrice}\nFeatures: ${pkg.features.join(", ")}`
+                          );
+                          window.open(`https://wa.me/7506233907?text=${message}`);
+                        }}
                       >
                         {pkg.isPopular && <Star className="h-5 w-5 mr-2" />}
                         GET STARTED
