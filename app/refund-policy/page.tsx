@@ -127,8 +127,8 @@ export default function RefundPolicyPage() {
                   </p>
                   <p className="text-lg text-gray-700 leading-relaxed">
                     If you have any questions or concerns, feel free to reach out to our customer support team at{" "}
-                    <a href="mailto:info@capital-grow.com" className="text-blue-600 hover:underline font-semibold">
-                      info@capital-grow.com
+                    <a href="mailto:info@fitintraders.com" className="text-blue-600 hover:underline font-semibold">
+                      info@fitintraders.com
                     </a>{" "}
                     for clarification before making any payment.
                   </p>
@@ -185,10 +185,10 @@ export default function RefundPolicyPage() {
                 </p>
                 <div className="flex flex-col sm:flex-row gap-4 justify-center">
                   <a
-                    href="mailto:info@capital-grow.com"
+                    href="mailto:info@fitintraders.com"
                     className="bg-white text-green-600 hover:bg-gray-100 py-3 px-8 text-lg font-semibold rounded-xl transition-all duration-300 inline-block"
                   >
-                    Email: info@capital-grow.com
+                    Email: info@fitintraders.com
                   </a>
                   <a
                     href="tel:8108556625"

@@ -19,7 +19,7 @@ export default function UserConsentPage() {
                   By accessing or using the <span className="font-semibold text-green-600">Capital-Grow</span> website,
                   mobile application, or subscribing to our research services, you agree to adhere to the terms and
                   conditions, legal disclaimer, disclosures, policies, and user consent outlined on the official
-                  Capital-Grow platform. Please note, we may update these terms from time to time, and your continued
+                  Fitin Traders platform. Please note, we may update these terms from time to time, and your continued
                   use of our services will signify your acceptance of the revised terms. We encourage you to regularly
                   check the sections related to 'Terms and Conditions,' 'Legal Disclaimer,' 'Disclosure,' 'User
                   Consent,' 'Refund Policy,' and 'Privacy Policy' on our website to stay informed.
@@ -61,7 +61,7 @@ export default function UserConsentPage() {
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
                     You acknowledge that share market trading and investing carry significant risks, including the loss
-                    of partial or entire capital. You accept that Capital Grow provides research and technical analysis
+                    of partial or entire capital. You accept that Fitin Traders provides research and technical analysis
                     only as a reference, not investment advice. The decision to execute trades based on our alerts is
                     entirely yours, including the trade volume and stock selection. You bear full responsibility for the
                     results of your trading activities, whether profitable or otherwise.
@@ -78,7 +78,7 @@ export default function UserConsentPage() {
                     Accuracy & Expectations:
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
-                    You understand and agree that Capital-Grow and its team do not guarantee the accuracy or consistency
+                    You understand and agree that Fitin Traders and its team do not guarantee the accuracy or consistency
                     of any research alerts provided. Any accuracy percentages communicated via email, advertisements, or
                     mobile app are for reference only and subject to fluctuation. There is no commitment to maintain a
                     fixed accuracy rate for research alerts or trading recommendations.
@@ -95,7 +95,7 @@ export default function UserConsentPage() {
                     Responsibility for Trades:
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
-                    You accept that Capital-Grow is not responsible for executing trades on your behalf. Any decisions
+                    You accept that Fitin Traders is not responsible for executing trades on your behalf. Any decisions
                     to buy or sell stocks in your trading or Demat account during your subscription to our research
                     services are entirely your own. Any gains or losses incurred from these trades are solely your
                     responsibility.
@@ -112,7 +112,7 @@ export default function UserConsentPage() {
                     Research Services Only:
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
-                    The research services provided by Capital-Grow are not to be mistaken for personalized investment
+                    The research services provided by Fitin Traders are not to be mistaken for personalized investment
                     advice. We offer trading analysis for reference only. You acknowledge that any profits or losses
                     that result from trades made by following our alerts are entirely your liability.
                   </p>
@@ -161,10 +161,10 @@ export default function UserConsentPage() {
                     Legal Liability & Consent:
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
-                    You agree that Capital-Grow and its owners, employees, or associates cannot be held responsible for
+                    You agree that Fitin Traders and its owners, employees, or associates cannot be held responsible for
                     any losses you may incur as a result of trading activities based on our research alerts. You also
                     confirm that you will not disclose your Demat or trading account credentials to anyone and that you
-                    alone are responsible for managing your account. You agree that Capital-Grow has not guaranteed or
+                    alone are responsible for managing your account. You agree that Fitin Traders has not guaranteed or
                     assured any profits, and you will not file any legal complaint or claim if you incur losses during
                     your trading activities.
                   </p>
@@ -181,7 +181,7 @@ export default function UserConsentPage() {
                   </h2>
                   <p className="text-gray-700 leading-relaxed">
                     By clicking "Yes, I Agree," you confirm that you have read, understood, and accepted all the terms
-                    and conditions, disclaimers, disclosures, and policies mentioned on the Capital-Grow website and
+                    and conditions, disclaimers, disclosures, and policies mentioned on the Fitin Traders website and
                     mobile app. This consent will be recorded and considered final for all future services and
                     transactions with Capital-Grow.
                   </p>
@@ -193,8 +193,8 @@ export default function UserConsentPage() {
           <div className="mt-12 text-center">
             <p className="text-gray-500 text-sm">
               Last updated: January 2025 | For any questions regarding this consent, please contact us at{" "}
-              <a href="mailto:compliance@capital-grow.com" className="text-green-600 hover:underline">
-                compliance@capital-grow.com
+              <a href="mailto:compliance@fitintraders.com" className="text-green-600 hover:underline">
+                compliance@fitintraders.com
               </a>
             </p>
           </div>

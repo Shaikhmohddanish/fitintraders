@@ -122,7 +122,7 @@ export default function Home() {
                   through advanced tools and methodologies. Our expert team leverages deep industry experience to
                   deliver precise and actionable recommendations, ensuring you make informed investment decisions. We
                   prioritize accuracy over exaggeration, offering recommendations that align with your unique risk
-                  profile and investment goals. Join the Capital-Grow community today and stay ahead in the market with
+                  profile and investment goals. Join the Fitin Traders community today and stay ahead in the market with
                   expert guidance tailored just for you.
                 </p>
                 <div className="flex flex-col sm:flex-row gap-3">
@@ -189,8 +189,8 @@ export default function Home() {
                 services. To safeguard your interactions with us, please note that all official offers, promotions, and
                 communications related to sales and discounts from <span className="font-semibold">Capital-Grow</span>{" "}
                 will be sent only through our verified email address:{" "}
-                <a href="mailto:sales@capital-grow.com" className="text-green-600 hover:underline">
-                  sales@capital-grow.com
+                <a href="mailto:sales@fitintraders.com" className="text-green-600 hover:underline">
+                  sales@fitintraders.com
                 </a>
                 .
               </p>
@@ -198,8 +198,8 @@ export default function Home() {
                 We've recently been alerted to the possibility of unauthorized entities imitating our communication
                 channels for fraudulent purposes. To protect yourself from phishing scams or other deceptive activities,
                 be vigilant and only engage with emails sent from the official email address:{" "}
-                <a href="mailto:sales@capital-grow.com" className="text-green-600 hover:underline">
-                  sales@capital-grow.com
+                <a href="mailto:sales@fitintraders.com" className="text-green-600 hover:underline">
+                  sales@fitintraders.com
                 </a>
                 .
               </p>
@@ -210,8 +210,8 @@ export default function Home() {
                   8108556625
                 </a>{" "}
                 or via email at{" "}
-                <a href="mailto:compliance@capital-grow.com" className="text-green-600 hover:underline">
-                  compliance@capital-grow.com
+                <a href="mailto:compliance@fitintraders.com" className="text-green-600 hover:underline">
+                  compliance@fitintraders.com
                 </a>
                 .
               </p>
