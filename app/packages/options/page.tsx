@@ -27,6 +27,22 @@ export default function OptionsPackagesPage() {
       isPopular: true,
     },
     {
+      id: "index-option-enhanced",
+      title: "Index Option",
+      subtitle: "Enhanced",
+      originalPrice: "₹95,000",
+      currentPrice: "₹55,700",
+      badge: "NEW",
+      badgeColor: "bg-amber-500",
+      features: [
+        "Get research alert of BankNifty/Nifty Option per day",
+        "Get well-researched targets and stop-loss on every research alert",
+        "Live Market customer support is available to all members",
+        "Risk Level — High to Very High",
+      ],
+      isPopular: false,
+    },
+    {
       id: "index-option-premium",
       title: "Index Option",
       subtitle: "Premium",
